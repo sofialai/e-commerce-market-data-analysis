@@ -1,7 +1,7 @@
 # E-commerce Market Data Analysis 
 
 ## Project description
-_**Disclaimer**_: The following is a brief introduction of the project. For the full analysis please download the file **"e-commerce-analysis.html"** available in this repository. 
+_**Disclaimer**_: The following is a brief introduction of the project. For the full analysis please download the file **"e-commerce-analysis.html"** available in this repository (html version) or **"e-commerce-analysis.ipynb"** (Python script)
 <br>
 In this project, we analyse the **transactions of an e-commerce platform** occurring over the years 2010 and 2011 to extract customer and market insights. Our goal is to design and obtain Key Performance Indicators (KPIs) to identify room for improvement in the platform performance.  
 <br> Some of the **questions** we will address include:
