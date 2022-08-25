@@ -23,7 +23,7 @@ For the analysis, we employed the following **packages**:
 - Matplotlib
 - Seaborn
 
-##Main results 
+## Main results 
 - The UK is largest market in terms of total sales and number of sales.
 - Considering the observed customer behavior in certain markets, such as Portugal, there are growth opportunities: in such markets customers tend to purchase more expensive items, however the number of sales is significantly smaller compared to other markets.
 - The positive relationship between GDP per capita and wholesale sales represents a chance to increase the sales volumes in countries associated with higher GDP per capita, which currently are among the least relevant markets.
